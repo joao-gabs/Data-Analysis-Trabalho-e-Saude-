@@ -8,13 +8,16 @@ Este projeto utiliza uma base de dados do Kaggle sobre a relação entre o traba
 - Responder perguntas relevantes sobre a saúde mental de funcionários que trabalham remotamente e como fatores como gênero, idade e produtividade influenciam essa dinâmica.
 
 # **Perguntas a Serem Respondidas**
-- Funcionários que trabalham remotamente relatam mais condições de saúde mental (ansiedade, depressão, etc.) em comparação com os que trabalham presencialmente?
-- Qual a relação entre o gênero/idade e o nível de estresse ou a probabilidade de desenvolver uma condição de saúde mental no trabalho remoto?
-- Como a produtividade dos funcionários se relaciona com as condições de saúde mental e as jornadas de trabalho?
+1. **Funcionários que trabalham remotamente relatam mais condições de saúde mental (ansiedade, depressão, etc.) em comparação com os que trabalham presencialmente?**
+2. **Qual a relação entre o gênero/idade e o nível de estresse ou a probabilidade de desenvolver uma condição de saúde mental no trabalho remoto?**
+3. **Como a produtividade dos funcionários se relaciona com as condições de saúde mental e as jornadas de trabalho?**
 
 # **Quais as tecnologias que eu optei por utilizar?**
 
 Python: para análise de dados e visualização
+
 Pandas: para manipulação e limpeza de dados
+
 Seaborn e Matplotlib: para visualização de dados
+
 Kaggle: para extração da base de dados sobre saúde mental e trabalho remoto
